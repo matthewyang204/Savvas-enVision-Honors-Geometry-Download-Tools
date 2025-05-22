@@ -13,4 +13,4 @@ This is a set of scripts to show how easy it is to download the enVision Algebra
 4. Clone the repo and `cd` into it
 5. Run `./get` to download all images
 6. `cd` into pages and then run `python3 ../buildpdf.py`.
-7. Retrieve the result, a pdf at new1.pdf
+7. Retrieve the result, a pdf at `new1.pdf` in the `pages` folder
