@@ -1,5 +1,5 @@
-# Savvas enVision Algebra 1 Textbook Download Tools
-This is a set of scripts to show how easy it is to download the enVision Algebra 1 from Savvas as of March 21, 2025.
+# Savvas enVision Honors Geometry Textbook Download Tools
+This is a set of scripts to show how easy it is to download the enVision Honors Geometry from Savvas as of March 21, 2025.
 
 # Requirements
 - Python 3.4-3.12
