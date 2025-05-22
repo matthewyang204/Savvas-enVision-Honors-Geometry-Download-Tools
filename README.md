@@ -1,4 +1,4 @@
-# Savvas enVision ALgebra 1 Textbook Download Tools
+# Savvas enVision Algebra 1 Textbook Download Tools
 This is a set of scripts to show how easy it is to download the enVision Algebra 1 from Savvas as of March 21, 2025.
 
 # Requirements
