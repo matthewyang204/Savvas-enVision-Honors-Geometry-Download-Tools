@@ -1,0 +1,5 @@
+# Downloaded images
+*.jpg
+
+# Created PDFs
+*.pdf

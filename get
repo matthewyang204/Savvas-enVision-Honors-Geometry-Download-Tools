@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mkdir -p pages
+cd pages
+
+for i in $(seq 609 658); do
+  wget "https://assets.savvas.com/file-vault/flipbooks/floridareview/math/enV_FL_2020_SE_A1/html/content/pages/page${i}.jpg"
+done
