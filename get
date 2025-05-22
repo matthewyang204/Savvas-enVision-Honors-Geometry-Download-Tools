@@ -3,6 +3,6 @@
 mkdir -p pages
 cd pages
 
-for i in $(seq 1 658); do
+for i in $(seq 1 586); do
   wget "https://assets.savvas.com/file-vault/flipbooks/floridareview/math/enV_FL_2020_SE_Geo/html/content/pages/page${i}.jpg"
 done
